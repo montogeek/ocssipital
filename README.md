@@ -4,6 +4,8 @@
 
 > A grid creation boilerplate for [SASS](http://sass-lang.com/)
 
+[Demo](https://mango.github.io/ocssipital/)
+
 # Features
 
 - Supports flexbox grids
